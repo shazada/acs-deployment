@@ -1,0 +1,5 @@
+global:
+  alfrescoRegistryPullSecrets: regcred
+  known_urls: http://localhost
+  search:
+    sharedSecret: secret
